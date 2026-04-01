@@ -1,4 +1,4 @@
-#  Loan Default Prediction System
+#  Loan Approval Prediction System
 ---
 
 ##  Project Overview
@@ -27,8 +27,7 @@ Build a machine learning model that can predict whether a customer will repay a 
 ---
 ## Machine Learning Workflow
 - Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature engineering  
+- Exploratory Data Analysis (EDA)    
 - Handling imbalanced data using SMOTE  
 - Model training and comparison  
 - Hyperparameter tuning  
@@ -53,7 +52,7 @@ Final Model: Random Forest (Tuned)
 - Recall: 0.98  
 - F1-score: 0.94
 
-**- Overall Accuracy: 88.7%**
+**Overall Accuracy: 88.7%**
 
 ---
 ## Key Insights
@@ -77,7 +76,7 @@ streamlit run app.py
 
 ---
 ## Live Demo Deployment(Streamlit app)
-**Click here :**
+**Click here :** https://loan-approval-prediction-jqweaavufrcfebpwai2epa.streamlit.app/
 
 ---
 ##  Project Structure
@@ -104,4 +103,4 @@ loan-approval-prediction
 
 ---
 ## Author
-Yuvraj Singh  
+**Yuvraj Singh** 
